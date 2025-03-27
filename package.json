@@ -1,7 +1,7 @@
 {
   "name": "node-cli_todo_app",
   "version": "1.0.0",
-  "description": "A simple command-line To-Do app built whith Node.js. Alows users to add, add, list, and remove tasks using the terminal.",
+  "description": "A simple command-line To-Do app built with Node.js. Allows users to add, list, and remove tasks using the terminal.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,6 +16,11 @@
   "command-line",
   "productivity"
 ],
-  "author": "\"nodejs\",",
-  "license": "ISC"
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+  "chalk": "^5.4.1"
 }
+}
+
+
